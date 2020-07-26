@@ -1,5 +1,7 @@
 /**
  * Problem: To delete a provided node from a binary tree.
+ * 
+ * GeeksForGeeks URL: https://www.geeksforgeeks.org/deletion-binary-tree/
  */ 
 
 /**
